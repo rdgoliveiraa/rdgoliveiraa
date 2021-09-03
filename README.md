@@ -6,7 +6,7 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rdgoliveiraa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rdgoliveiraa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdgoliveiraa&layout=compact)](https://github.com/rdgoliveiraa/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
